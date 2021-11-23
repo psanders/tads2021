@@ -8,6 +8,8 @@
 
 This year for [TADSummit 2021](https://www.tadsummit.com/2021/), we are running a workshop. Follow the following steps to take full advance of the event:
 
+Save your spot [here](bit.ly/3FoFRvu) 👈👈👈👈
+
 ## Join the #tadsummit channel on Slack
 
 To take full advantage of the workshop, we ask that you join our Slack community. We will be sharing information with access to Virtual Numbers and credentials, which you will need during the workshop. To join the community, simply follow the link:
