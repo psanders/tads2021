@@ -18,7 +18,7 @@ https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6
 
 The next item you will need is NodeJS `+v14.16.0`. If possible use [NVM](https://github.com/nvm-sh/nvm) to install NodeJS.
 
-## Install Fonoster command-line tool and Plugins
+## Install the Command-line Tool and the Plugins
 
 You will also need the Fonoster command-line and the "phone" plugin. To install the tools, run the following commands:
 
