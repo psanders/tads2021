@@ -6,9 +6,7 @@
 
 # TADSummit 2021 EMEA/AMERICAS
 
-This year for [TADSummit 2021](https://www.tadsummit.com/2021/), we are running a workshop. Follow the following steps to take full advance of the event:
-
-Save your spot [here](bit.ly/3FoFRvu) 👈👈👈👈
+This year for [TADSummit 2021](https://www.tadsummit.com/2021/), we are running a workshop. Use the following steps to take full advance of the event and make sure to save your spot [here](bit.ly/3FoFRvu) 👈👈👈👈
 
 ## Join the #tadsummit channel on Slack
 
