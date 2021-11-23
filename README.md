@@ -8,7 +8,7 @@
 
 This year for [TADSummit 2021](https://www.tadsummit.com/2021/), we are running a workshop. Use the following steps to take full advance of the event and make sure to save your spot [here](bit.ly/3FoFRvu) 👈👈👈👈
 
-## Join the #tadsummit channel on Slack
+## Join the #tadsummit Channel on Slack
 
 To take full advantage of the workshop, we ask that you join our Slack community. We will be sharing information with access to Virtual Numbers and credentials, which you will need during the workshop. To join the community, simply follow the link:
 
@@ -18,7 +18,7 @@ https://join.slack.com/t/fonoster/shared_invite/zt-b6n7hrwz-PJT9SXg_RRR9Q1gI7DI6
 
 The next item you will need is NodeJS `+v14.16.0`. If possible use [NVM](https://github.com/nvm-sh/nvm) to install NodeJS.
 
-## Install the CTL and additional tools
+## Install the CTL and Additional Tools
 
 You will also need the Fonoster command-line, the "phone" plugin, and Ngrok. To install the tools, run the following commands:
 
