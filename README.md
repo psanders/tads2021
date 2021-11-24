@@ -20,10 +20,10 @@ The next item you will need is NodeJS `+v14.16.0`. If possible use [NVM](https:/
 
 ## Install the CTL and Additional Tools
 
-You will also need the Fonoster command-line, the "phone" plugin, and Ngrok. To install the tools, run the following commands:
+You will also need the Fonoster command-line, the "phone" plugin, rox, and Ngrok. To install the tools, run the following commands:
 
 ```bash
-npm install -g @fonoster/ctl ngrok
+npm install -g @fonoster/rox @fonoster/ctl ngrok
 ```
 
 Then,
