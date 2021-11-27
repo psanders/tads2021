@@ -2,6 +2,11 @@
 
 [Rox AI](https://github.com/fonoster/rox) is a connector between Fonoster and Dialogflow. It will allow you to deploy a voice application from your existing Dialogflow Agents.
 
+<br />
+<br />
+
+![Flow](flow.png)
+
 **Steps:**
 
 1. Close the old application
