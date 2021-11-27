@@ -25,23 +25,23 @@ rox \
 **CMD**
 
 ```bash
-rox \
-  --with-ngrok \
-  --asr-engine=google \
-  --tts-engine=google \
-  --intents-engine=dialogflow.es \
-  --tts-voice=en-US-Standard-C \
+rox ^
+  --with-ngrok ^
+  --asr-engine=google ^
+  --tts-engine=google ^
+  --intents-engine=dialogflow.es ^
+  --tts-voice=en-US-Standard-C ^
   --google-config-file="%cd%"/google.json
 ```
 
 **Powershell**
 
 ```bash
-rox \
-  --with-ngrok \
-  --asr-engine=google \
-  --tts-engine=google \
-  --intents-engine=dialogflow.es \
-  --tts-voice=en-US-Standard-C \
+rox ,
+  --with-ngrok ,
+  --asr-engine=google ,
+  --tts-engine=google ,
+  --intents-engine=dialogflow.es ,
+  --tts-voice=en-US-Standard-C ,
   --google-config-file=${pwd}/google.json
 ```
