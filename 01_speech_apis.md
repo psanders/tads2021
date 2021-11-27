@@ -1,5 +1,7 @@
 # Practice #2: Connecting to Speech APIs
 
+**Steps:**
+
 1. Copy the `google.json` file at the root of your application
 2. Modify your application to look like that one bellow
 3. Test your application using your mobile or phone simulator
