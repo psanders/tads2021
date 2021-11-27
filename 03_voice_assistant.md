@@ -16,6 +16,7 @@ rox \
 --tts-engine=google \
 --intents-engine=dialogflow.es \
 --tts-voice=en-US-Standard-C \
+--language-code=en-US \
 --google-config-file=$(pwd)/google.json
 ```
 
@@ -29,6 +30,7 @@ rox ^
 --tts-engine=google ^
 --intents-engine=dialogflow.es ^
 --tts-voice=en-US-Standard-C ^
+--language-code=en-US ^
 --google-config-file="%cd%"/google.json
 ```
 
@@ -40,5 +42,6 @@ rox ^
 --tts-engine=google `
 --intents-engine=dialogflow.es `
 --tts-voice=en-US-Standard-C `
+--language-code=en-US `
 --google-config-file=${pwd}/google.json
 ```
