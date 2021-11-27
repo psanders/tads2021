@@ -1,4 +1,4 @@
-# Example Voice Application
+# Practice #1: Hello world
 
 ## Part #1
 
