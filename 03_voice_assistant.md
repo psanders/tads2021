@@ -12,7 +12,6 @@
 
 ```bash
 rox \
-  --with-ngrok \
   --asr-engine=google \
   --tts-engine=google \
   --intents-engine=dialogflow.es \
@@ -26,7 +25,6 @@ rox \
 
 ```bash
 rox ^
-  --with-ngrok ^
   --asr-engine=google ^
   --tts-engine=google ^
   --intents-engine=dialogflow.es ^
@@ -38,7 +36,6 @@ rox ^
 
 ```bash
  rox `
---with-ngrok `
 --asr-engine=google `
 --tts-engine=google `
 --intents-engine=dialogflow.es `
