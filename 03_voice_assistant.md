@@ -12,11 +12,11 @@
 
 ```bash
 rox \
-  --asr-engine=google \
-  --tts-engine=google \
-  --intents-engine=dialogflow.es \
-  --tts-voice=en-US-Standard-C \
-  --google-config-file=$(pwd)/google.json
+--asr-engine=google \
+--tts-engine=google \
+--intents-engine=dialogflow.es \
+--tts-voice=en-US-Standard-C \
+--google-config-file=$(pwd)/google.json
 ```
 
 ## Windows
@@ -25,11 +25,11 @@ rox \
 
 ```bash
 rox ^
-  --asr-engine=google ^
-  --tts-engine=google ^
-  --intents-engine=dialogflow.es ^
-  --tts-voice=en-US-Standard-C ^
-  --google-config-file="%cd%"/google.json
+--asr-engine=google ^
+--tts-engine=google ^
+--intents-engine=dialogflow.es ^
+--tts-voice=en-US-Standard-C ^
+--google-config-file="%cd%"/google.json
 ```
 
 **Powershell**
