@@ -1,4 +1,4 @@
-# Creating a Voice Assistant with Rox AI
+# Exercise #3: Creating a Voice Assistant with Rox AI
 
 [Rox AI](https://github.com/fonoster/rox) is a connector between Fonoster and Dialogflow. It will allow you to deploy a voice application from your existing Dialogflow Agents.
 
