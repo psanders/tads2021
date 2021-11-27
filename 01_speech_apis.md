@@ -1,4 +1,4 @@
-# Practice #2: Connecting to Speech APIs
+# Exercise #2: Connecting to Speech APIs
 
 **Steps:**
 
