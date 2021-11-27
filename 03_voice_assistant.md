@@ -4,8 +4,9 @@
 
 **Steps:**
 
-1. Be sure to have the `google.json` file
-2. Run the following command:
+1. Close the old application
+2. Be sure to have the `google.json` file
+3. Run the following command:
 
 ## Linux/OSX
 
