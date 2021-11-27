@@ -2,9 +2,10 @@
 
 **Steps:**
 
-1. Copy the `google.json` file at the root of your application
-2. Modify your application to look like that one bellow
-3. Test your application using your mobile or phone simulator
+1. Install the packages `@fonoster/googletts` and `@fonoster/googleasr`
+2. Copy the `google.json` file at the root of your application
+3. Modify your application to look like that one bellow
+4. Test your application using your mobile or phone simulator
 
 ```javascript
 // index.js
