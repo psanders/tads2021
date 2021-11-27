@@ -22,10 +22,11 @@ voiceServer.use(new GoogleASR(speechConfig));
 voiceServer.listen(async(req, res) => {
   console.log(req);
   await res.answer();
+  await res.say("Hi. What's your name?");
   // To use this verb you MUST have a TTS plugin
   const speech = await res.gather();
 
-  await res.say("You said " + speech);
+  await res.say("You said " + speech + ". Is that right?");
   await res.hangup();
 });
 ```
