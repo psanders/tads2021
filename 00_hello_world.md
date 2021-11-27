@@ -2,7 +2,7 @@
 
 ## Part #1
 
-1. Start ngrok on port 3000
+1. Start Ngrok on port 3000
 2. Create a folder and init a NodeJS application
 3. Install the voice module `@fonoster/voice`
 4. Create an `index.js` file with the content below and start the service
