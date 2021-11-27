@@ -1,4 +1,4 @@
-# Practice #1: Hello world
+# Exercise #1: Hello world
 
 ## Part #1
 
