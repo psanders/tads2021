@@ -29,7 +29,7 @@ npm install -g @fonoster/rox @fonoster/ctl ngrok
 Then,
 
 ```bash
-fonoster plugins:install @fonos/plugin-phone
+fonoster plugins:install @fonoster/plugin-phone
 ```
 
 ## Create a Fonoster Account
